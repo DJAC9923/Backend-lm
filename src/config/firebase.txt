@@ -1,0 +1,2 @@
+archivo conexion al firebase
+-->Por elegir quien tendra el gusto de tener la base :3

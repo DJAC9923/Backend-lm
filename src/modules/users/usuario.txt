@@ -1,0 +1,3 @@
+revisar las bases para los usuarios
+vale la pena direccion, ciudad y telefono?
+añadir a eso equipo, tarea actual?...
